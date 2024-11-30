@@ -56,7 +56,7 @@ int main()
 		x1 = x2;
 		y1 = y2;
 		r1 = r2;
-		//doubling number of subintervals
+		//double number of subintervals
 		n *= 2;
 		//calculate length of subintervals
 		h = (b - x0) / n;
